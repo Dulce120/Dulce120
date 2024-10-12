@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @Dulce120
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Dulce120/Dulce120 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+var text = new createjs.Text(
+"te amo con todo mi/corazon❤️",
+"bold 24px Arial", "#fff");
+text.textAlign = "center";
+text.x = w / 2;
+text.y = h / 2 - text.
+getMeasuredLineHeight(); stage.addChild(text);
